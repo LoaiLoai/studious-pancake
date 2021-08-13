@@ -1,0 +1,36 @@
+[{
+        "Type": "Nissan",
+        "Sedan": "Altima",
+        "Saloon": "Maxima",
+        "Luxury": "GTR",
+        "SUV": "Pathfinder"
+    },
+    {
+        "Type": "Toyota",
+        "Sedan": "Corolla",
+        "Saloon": "Camry",
+        "Luxury": "Supra",
+        "SUV": "Venza"
+    },
+    {
+        "Type": "Honda",
+        "Sedan": "Civic",
+        "Saloon": "Accord",
+        "Luxury": "S2000",
+        "SUV": "Pilot"
+    },
+    {
+        "Type": "Audi",
+        "Sedan": "TT",
+        "Saloon": "A7",
+        "Luxury": "R8",
+        "SUV": "Q8"
+    },
+    {
+        "Type": "Acura",
+        "Sedan": "ILX",
+        "Saloon": "TLX",
+        "Luxury": "NSX",
+        "SUV": "MDX"
+    }
+]
