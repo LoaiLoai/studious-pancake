@@ -1,0 +1,166 @@
+[{
+        "Id": 1,
+        "BrandId": 1011,
+        "ProductName": "Classic",
+        "GraphicName": "",
+        "CostPrice": 1.69,
+        "MSRP": 1.99,
+        "QtyOnHand": 7,
+        "QtyOnBackOrder": 5,
+        "Description": "For teens and young adults, who want to be free and stay connected with others, Coca-Cola Classic is the authentic cola that is always refreshing and part of the fun."
+    },
+    {
+        "Id": 2,
+        "BrandId": 1011,
+        "ProductName": "Diet",
+        "GraphicName": "",
+        "CostPrice": 0.99,
+        "MSRP": 1.29,
+        "QtyOnHand": 6,
+        "QtyOnBackOrder": 5,
+        "Description": "Diet Coke is the original sparkling beverage for those who want great flavour without the calories - a drink for those with great taste."
+    },
+    {
+        "Id": 3,
+        "BrandId": 1011,
+        "ProductName": "No Sugar",
+        "GraphicName": "",
+        "CostPrice": 1.78,
+        "MSRP": 1.89,
+        "QtyOnHand": 4,
+        "QtyOnBackOrder": 5,
+        "Description": "The great taste of Coca-Cola has stood the test of time. And Coca-Cola No Sugar brings you a Coca-Cola taste with zero sugar and zero calories. Between the delicious taste and refreshing fizz, it iss sure to give you that “ahhh” moment whenever you want it."
+    },
+    {
+        "Id": 4,
+        "BrandId": 1011,
+        "ProductName": "Vanilla",
+        "GraphicName": "",
+        "CostPrice": 1.89,
+        "MSRP": 4.68,
+        "QtyOnHand": 4,
+        "QtyOnBackOrder": 5,
+        "Description": "Enjoy the crisp and refreshing taste of Coca-Cola with a hint of vanilla."
+    },
+    {
+        "Id": 5,
+        "BrandId": 1011,
+        "ProductName": "Frozen",
+        "GraphicName": "",
+        "CostPrice": 0.89,
+        "MSRP": 0.99,
+        "QtyOnHand": 5,
+        "QtyOnBackOrder": 0,
+        "Description": "The great taste of Coca-Cola in a refreshing frozen drink. It is the perfect partner for your favorite McDonalds Burgers and World Famous Fries. Available in small, medium and large sizes."
+    },
+    {
+        "Id": 6,
+        "BrandId": 1012,
+        "ProductName": "Red",
+        "GraphicName": "",
+        "CostPrice": 2.50,
+        "MSRP": 3.19,
+        "QtyOnHand": 10,
+        "QtyOnBackOrder": 30,
+        "Description": "Red Bull Red Edition has a special formula that contains ingredients of high quality: Caffeine, Taurine, Sugars, Alpine water."
+    },
+    {
+        "Id": 7,
+        "BrandId": 1012,
+        "ProductName": "Blue",
+        "GraphicName": "",
+        "CostPrice": 2.50,
+        "MSRP": 6.24,
+        "QtyOnHand": 7,
+        "QtyOnBackOrder": 20,
+        "Description": "The amount of sugars in a can of Red Bull Blue Edition is comparable to the level of sugars in an equivalent amount of apple or orange juice – 27 g per 250 ml."
+    },
+    {
+        "Id": 8,
+        "BrandId": 1012,
+        "ProductName": "Green",
+        "GraphicName": "",
+        "CostPrice": 2.50,
+        "MSRP": 3.19,
+        "QtyOnHand": 3,
+        "QtyOnBackOrder": 30,
+        "Description": "Delivering bursts of red berries with a hint of plum and notes of florals, Red Bull Green Edition Dragon Fruit features bright magenta color."
+    },
+    {
+        "Id": 9,
+        "BrandId": 1012,
+        "ProductName": "Yellow",
+        "GraphicName": "",
+        "CostPrice": 2.79,
+        "MSRP": 3.19,
+        "QtyOnHand": 25,
+        "QtyOnBackOrder": 0,
+        "Description": "The tropical-fruit-flavored Summer Edition will be available exclusively at 7-Eleven stores nationwide during the months of July and August."
+    },
+    {
+        "Id": 10,
+        "BrandId": 1012,
+        "ProductName": "White",
+        "GraphicName": "",
+        "CostPrice": 2.99,
+        "MSRP": 3.29,
+        "QtyOnHand": 19,
+        "QtyOnBackOrder": 0,
+        "Description": "A limited White Edition of one of the worlds most famous energy drinks! Every now and then Japan will produce seasonal flavors of Red Bull. Fresh Breeze delivers an accurate and refreshing white peach flavor. It also has all of the energy drink flavor you are used to."
+    },
+    {
+        "Id": 11,
+        "BrandId": 1013,
+        "ProductName": "Lemon-Lime",
+        "GraphicName": "",
+        "CostPrice": 1.19,
+        "MSRP": 1.99,
+        "QtyOnHand": 5,
+        "QtyOnBackOrder": 20,
+        "Description": "Gatorade Lemon-Lime Sports Drink is scientifically proven to rehydrate lost fluids, replenish electrolytes lost in sweat, and refuel working muscles with carbohydrates. Refreshing citrus flavour. This bottle is specifically designed for athletes who want to be at their best in the gym, at practice, and in games."
+    },
+    {
+        "Id": 12,
+        "BrandId": 1013,
+        "ProductName": "Orange",
+        "GraphicName": "",
+        "CostPrice": 1.19,
+        "MSRP": 1.99,
+        "QtyOnHand": 1,
+        "QtyOnBackOrder": 30,
+        "Description": "Gatorade Orange Sports Drink is scientifically proven to rehydrate lost fluids, replenish electrolytes lost in sweat, and refuel working muscles with carbohydrates. Refreshing orange flavour. Rehydrates, replaces electrolytes, and refuels working muscles."
+    },
+    {
+        "Id": 13,
+        "BrandId": 1013,
+        "ProductName": "Fruit Punch",
+        "GraphicName": "",
+        "CostPrice": 1.19,
+        "MSRP": 1.99,
+        "QtyOnHand": 17,
+        "QtyOnBackOrder": 10,
+        "Description": "Gatorade Fruit Punch Sports Drink is scientifically proven to rehydrate lost fluids, replenish electrolytes lost in sweat, and refuel working muscles with carbohydrates. Refreshing fruit punch flavour. Helps maintain normal water and electrolyte balance. Carbohydrates provide energy."
+    },
+    {
+        "Id": 14,
+        "BrandId": 1013,
+        "ProductName": "Cool Blue",
+        "GraphicName": "",
+        "CostPrice": 1.19,
+        "MSRP": 1.99,
+        "QtyOnHand": 19,
+        "QtyOnBackOrder": 30,
+        "Description": "Gatorade Cool Blue Sports Drink is scientifically proven to rehydrate lost fluids, replenish electrolytes lost in sweat, and refuel working muscles with carbohydrates. Crisp, refreshing flavour. Lab-tested, recommended by coaches and trusted by some of the world’s best athletes."
+    },
+    {
+        "Id": 15,
+        "BrandId": 1013,
+        "ProductName": "Green Apple",
+        "GraphicName": "",
+        "CostPrice": 1.19,
+        "MSRP": 1.99,
+        "QtyOnHand": 27,
+        "QtyOnBackOrder": 0,
+        "Description": "Gatorade Green Apple Sports Drink is scientifically proven to rehydrate lost fluids, replenish electrolytes lost in sweat, and refuel working muscles with carbohydrates. Crisp, refreshing flavour."
+    }
+]
